@@ -1,0 +1,20 @@
+{
+  "name": "store",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "@types/jsonwebtoken": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stricjs/router": "^5.0.6",
+    "@stricjs/utils": "^1.6.1",
+    "jsonwebtoken": "latest"
+  },
+  "scripts": {
+    "prepare-db": "bun ./src/db/prepare/index.ts"
+  }
+}

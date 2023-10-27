@@ -12,7 +12,7 @@ To install Bun, use:
 curl -fsSL https://bun.sh/install | bash
 ```
 
-If you are using Windows you can set up and run a Docker container or use WSL2.
+If you are using Windows you can build and run a Docker container with the provided [Dockerfile](./Dockerfile) or use WSL2.
 
 ## Start
 To install dependencies:

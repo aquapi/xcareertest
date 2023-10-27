@@ -1,6 +1,7 @@
 # Store
 This is a project made with my custom framework, [Stric](https://github.com/bunsvr).
-For more info, see: https://mindxschool.notion.site/X-Career-Level-3-Test-239ac6279efd43a9a8ee3072d2815a7e
+
+For more info about the test, see [Notion](https://mindxschool.notion.site/X-Career-Level-3-Test-239ac6279efd43a9a8ee3072d2815a7e).
 
 ## Requirement
 You need Bun to run the project.
